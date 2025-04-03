@@ -1,0 +1,6 @@
+[submodule "inventory-hono"]
+	path = inventory-hono
+	url = https://github.com/dean3213321/inventory-hono.git
+[submodule "inventory-react"]
+	path = inventory-react
+	url = https://github.com/dean3213321/inventory-react.git
